@@ -75,7 +75,6 @@ int main() {
     if (choice == 1) {
         shakerSort(records);
     } else if (choice == 2) {
-        // Доработайте mergeSort для работы с compareByDate
         cout << "Сортировка по дате (реализуйте отдельно)\n";
     } else {
         cout << "Неверное значение\n";
